@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallpaper", "Wallpaper\Wall
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerimeterOfSquares", "PerimeterOfSquares\PerimeterOfSquares.csproj", "{5FAE2089-1F9C-401E-A553-D06989D2A437}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePigLatin", "SimplePigLatin\SimplePigLatin.csproj", "{1B878344-3959-4264-9A48-85E2CC73FCDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5FAE2089-1F9C-401E-A553-D06989D2A437}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FAE2089-1F9C-401E-A553-D06989D2A437}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FAE2089-1F9C-401E-A553-D06989D2A437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B878344-3959-4264-9A48-85E2CC73FCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B878344-3959-4264-9A48-85E2CC73FCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B878344-3959-4264-9A48-85E2CC73FCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B878344-3959-4264-9A48-85E2CC73FCDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
