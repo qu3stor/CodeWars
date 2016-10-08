@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace CodeWars
+namespace Wallpaper
 {
     static class Program
     {
@@ -30,8 +30,6 @@ namespace CodeWars
             double wallSquare = 2 * (length * height + width * height);
             double squareWallpapers = (wallSquare / 5.2) * 1.15;
             int rolls = Convert.ToInt32(Math.Ceiling(squareWallpapers));
-
-
 
             return HumanFriendlyInteger.IntegerToWritten(rolls).ToLower();
             }
@@ -94,7 +92,6 @@ namespace CodeWars
                 return FriendlyInteger(n, "", 0);
             }
  
-
             }
         }
 
