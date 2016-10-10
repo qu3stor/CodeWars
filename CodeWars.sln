@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerimeterOfSquares", "Perim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePigLatin", "SimplePigLatin\SimplePigLatin.csproj", "{1B878344-3959-4264-9A48-85E2CC73FCDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToFactorialAndBack", "DecimalToFactorialAndBack\DecimalToFactorialAndBack.csproj", "{1C7FC762-C86C-47F4-B3ED-5706A5E1B32E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1B878344-3959-4264-9A48-85E2CC73FCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B878344-3959-4264-9A48-85E2CC73FCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B878344-3959-4264-9A48-85E2CC73FCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7FC762-C86C-47F4-B3ED-5706A5E1B32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7FC762-C86C-47F4-B3ED-5706A5E1B32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7FC762-C86C-47F4-B3ED-5706A5E1B32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7FC762-C86C-47F4-B3ED-5706A5E1B32E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
