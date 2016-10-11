@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N00bify", "N00bify\N00bify.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumStringsAsNumbers", "SumStringsAsNumbers\SumStringsAsNumbers.csproj", "{067DBE0A-9408-4365-873C-A23545F1028C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoFightersOneWinner", "TwoFightersOneWinner\TwoFightersOneWinner.csproj", "{BDF3F75C-30D8-4D21-B85B-52CD0CA5ED54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{067DBE0A-9408-4365-873C-A23545F1028C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{067DBE0A-9408-4365-873C-A23545F1028C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{067DBE0A-9408-4365-873C-A23545F1028C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF3F75C-30D8-4D21-B85B-52CD0CA5ED54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF3F75C-30D8-4D21-B85B-52CD0CA5ED54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF3F75C-30D8-4D21-B85B-52CD0CA5ED54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF3F75C-30D8-4D21-B85B-52CD0CA5ED54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
