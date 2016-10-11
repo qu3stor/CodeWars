@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToFactorialAndBack",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumUnfairnessOfList", "MinimumUnfairnessOfList\MinimumUnfairnessOfList.csproj", "{FD623B07-3E43-47A7-B26A-84DB4EB434B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N00bify", "N00bify\N00bify.csproj", "{DBFFCC1B-84A7-4D3A-8E5D-4C631A1EFD64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FD623B07-3E43-47A7-B26A-84DB4EB434B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD623B07-3E43-47A7-B26A-84DB4EB434B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD623B07-3E43-47A7-B26A-84DB4EB434B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBFFCC1B-84A7-4D3A-8E5D-4C631A1EFD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFFCC1B-84A7-4D3A-8E5D-4C631A1EFD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFFCC1B-84A7-4D3A-8E5D-4C631A1EFD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFFCC1B-84A7-4D3A-8E5D-4C631A1EFD64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
