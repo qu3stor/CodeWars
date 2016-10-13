@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyLittleTrees", "HappyLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDAreaCalculations", "TDDAreaCalculations\TDDAreaCalculations.csproj", "{3B4B8D2B-54B5-431F-86F3-3E3BBEF1DE7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveTheMinimum", "RemoveTheMinimum\RemoveTheMinimum.csproj", "{59AE751A-EDCF-4221-8575-0245040CAD3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{3B4B8D2B-54B5-431F-86F3-3E3BBEF1DE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B4B8D2B-54B5-431F-86F3-3E3BBEF1DE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B4B8D2B-54B5-431F-86F3-3E3BBEF1DE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AE751A-EDCF-4221-8575-0245040CAD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AE751A-EDCF-4221-8575-0245040CAD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AE751A-EDCF-4221-8575-0245040CAD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AE751A-EDCF-4221-8575-0245040CAD3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
