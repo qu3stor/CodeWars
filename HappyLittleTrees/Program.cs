@@ -11,23 +11,20 @@ namespace HappyLittleTrees
         static void Main(string[] args)
         {
             Tree happy = new Tree();
-            happy.GrowTrunk();
-            happy.NewBranch();
-            
-            happy.Ouch(1);
-            happy.GrowTrunk();
-            happy.NewBranch();
-            happy.GrowTrunk();
-            happy.NewBranch();
-            happy.GrowTrunk();
-            happy.NewBranch();
-            happy.NewBranch();
-            happy.GrowBranches();
-            happy.NewBranch();
-            happy.NewBranch();
-            
+            happy.Ouch(-3);
+            //happy.GrowBranches();
+            //happy.Ouch(-3);
+            //happy.Ouch(50);
+            //happy.NewBranch();
+            //happy.NewBranch();
+            //happy.NewBranch();
+            //happy.GrowBranches();
+            //happy.Ouch(1);
+            //happy.GrowTrunk();
+            //happy.Ouch(6);
 
-            Console.WriteLine(happy.trunk);
+
+            Console.WriteLine(happy.Description());
             Console.ReadKey();
         }
     }
@@ -63,24 +60,31 @@ namespace HappyLittleTrees
 
         public void Ouch(int n)
         {
-            branchess.RemoveAt(n - 1);
+            if (branchess.Count < 1 || n > branchess.Count() || n < 1 )
+            {
+                
+            }
+            else
+            {
+                branchess.RemoveAt(n - 1);
+            }
+            
         }
 
         public string Description()
         {
-            string output;
             if (branchess.Count > 0)
             {
-                string positions = String.Empty;
-                foreach (Branch branch in branchess)
-                {
-                    positions
-                }
-
-
-                output = ("The tree trunk is {0} unit(s) tall!There are {1} branch(es) that have position(s): _, _, _ and length(s): _, _, _!", );
-                return output;
+                string positions = String.Join(",", branchess.Select(p => p.height));
+                string lengths = String.Join(",", branchess.Select(l => l.length));
+                description = String.Format("The tree trunk is {0} unit(s) tall! There are {1} branch(es) that have position(s): {2} and length(s): {3}!", trunk, branchess.Count(), positions, lengths);
+                return description;
             }
+            else
+            {
+                description = String.Format("The tree trunk is {0} unit(s) tall! There are 0 branch(es)!", trunk);
+            }
+            return description;
         }
     }
 
