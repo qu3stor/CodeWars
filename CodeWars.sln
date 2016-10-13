@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDAreaCalculations", "TDDA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveTheMinimum", "RemoveTheMinimum\RemoveTheMinimum.csproj", "{59AE751A-EDCF-4221-8575-0245040CAD3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsReduction", "DirectionsReduction\DirectionsReduction.csproj", "{79667DF3-CD23-4CE8-9D28-F2709FAD8FCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{59AE751A-EDCF-4221-8575-0245040CAD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59AE751A-EDCF-4221-8575-0245040CAD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59AE751A-EDCF-4221-8575-0245040CAD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79667DF3-CD23-4CE8-9D28-F2709FAD8FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79667DF3-CD23-4CE8-9D28-F2709FAD8FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79667DF3-CD23-4CE8-9D28-F2709FAD8FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79667DF3-CD23-4CE8-9D28-F2709FAD8FCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
