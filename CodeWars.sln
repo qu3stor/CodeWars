@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveTheMinimum", "RemoveT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsReduction", "DirectionsReduction\DirectionsReduction.csproj", "{79667DF3-CD23-4CE8-9D28-F2709FAD8FCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mumbling", "Mumbling\Mumbling.csproj", "{36CEDB56-EA71-430B-9C4A-D5390B65D9D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{79667DF3-CD23-4CE8-9D28-F2709FAD8FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79667DF3-CD23-4CE8-9D28-F2709FAD8FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79667DF3-CD23-4CE8-9D28-F2709FAD8FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CEDB56-EA71-430B-9C4A-D5390B65D9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CEDB56-EA71-430B-9C4A-D5390B65D9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CEDB56-EA71-430B-9C4A-D5390B65D9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CEDB56-EA71-430B-9C4A-D5390B65D9D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
