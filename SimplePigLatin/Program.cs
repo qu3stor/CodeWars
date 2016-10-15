@@ -11,6 +11,7 @@ namespace SimplePigLatin
         static void Main(string[] args)
         {
             Console.WriteLine(PigIt("Pig latin is cool"));
+            
             Console.ReadKey();
         }
 

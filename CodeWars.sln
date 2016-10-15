@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsReduction", "Dire
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mumbling", "Mumbling\Mumbling.csproj", "{36CEDB56-EA71-430B-9C4A-D5390B65D9D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellingBee", "SpellingBee\SpellingBee.csproj", "{BC363B6C-AC85-460B-9D52-4459040D3ABA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{36CEDB56-EA71-430B-9C4A-D5390B65D9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36CEDB56-EA71-430B-9C4A-D5390B65D9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36CEDB56-EA71-430B-9C4A-D5390B65D9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC363B6C-AC85-460B-9D52-4459040D3ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC363B6C-AC85-460B-9D52-4459040D3ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC363B6C-AC85-460B-9D52-4459040D3ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC363B6C-AC85-460B-9D52-4459040D3ABA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
