@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mumbling", "Mumbling\Mumbli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellingBee", "SpellingBee\SpellingBee.csproj", "{BC363B6C-AC85-460B-9D52-4459040D3ABA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HungarianVowelHarmony", "HungarianVowelHarmony\HungarianVowelHarmony.csproj", "{E504EA7A-3BF2-40C6-B8CB-D17A9DE66EFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{BC363B6C-AC85-460B-9D52-4459040D3ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC363B6C-AC85-460B-9D52-4459040D3ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC363B6C-AC85-460B-9D52-4459040D3ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E504EA7A-3BF2-40C6-B8CB-D17A9DE66EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E504EA7A-3BF2-40C6-B8CB-D17A9DE66EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E504EA7A-3BF2-40C6-B8CB-D17A9DE66EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E504EA7A-3BF2-40C6-B8CB-D17A9DE66EFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
