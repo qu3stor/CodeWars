@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HungarianVowelHarmony", "Hu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatherGenerics", "GatherGenerics\GatherGenerics.csproj", "{BF51286B-99AE-4568-9FD6-6475045B60F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingDuplicates", "CountingDuplicates\CountingDuplicates.csproj", "{35CE7B2C-05F5-445A-A302-56BCF3685CD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NationalBathSafetyMonth", "NationalBathSafetyMonth\NationalBathSafetyMonth.csproj", "{C9C3FB01-E52B-4960-94A1-DAF752DD0C70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{BF51286B-99AE-4568-9FD6-6475045B60F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF51286B-99AE-4568-9FD6-6475045B60F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF51286B-99AE-4568-9FD6-6475045B60F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CE7B2C-05F5-445A-A302-56BCF3685CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CE7B2C-05F5-445A-A302-56BCF3685CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CE7B2C-05F5-445A-A302-56BCF3685CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CE7B2C-05F5-445A-A302-56BCF3685CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C3FB01-E52B-4960-94A1-DAF752DD0C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C3FB01-E52B-4960-94A1-DAF752DD0C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C3FB01-E52B-4960-94A1-DAF752DD0C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C3FB01-E52B-4960-94A1-DAF752DD0C70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
