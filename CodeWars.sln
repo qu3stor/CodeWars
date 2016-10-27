@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandBox", "SandBox\SandBox.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadAnts", "DeadAnts\DeadAnts.csproj", "{4D461361-5C84-4883-A4FE-1AE0B75DEBFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompleteSeries", "CompleteSeries\CompleteSeries.csproj", "{1E8E8B4B-8ADE-47E9-8606-85C704D855C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{4D461361-5C84-4883-A4FE-1AE0B75DEBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D461361-5C84-4883-A4FE-1AE0B75DEBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D461361-5C84-4883-A4FE-1AE0B75DEBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8E8B4B-8ADE-47E9-8606-85C704D855C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8E8B4B-8ADE-47E9-8606-85C704D855C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8E8B4B-8ADE-47E9-8606-85C704D855C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8E8B4B-8ADE-47E9-8606-85C704D855C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
