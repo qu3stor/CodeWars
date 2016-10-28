@@ -12,6 +12,8 @@ namespace Wallpaper
         static void Main(string[] args)
         {
 
+
+
             Console.WriteLine(Wallpaper(0.5, 0, 2.6));
 
             Console.ReadKey();
