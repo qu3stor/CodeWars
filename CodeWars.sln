@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadAnts", "DeadAnts\DeadAn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompleteSeries", "CompleteSeries\CompleteSeries.csproj", "{1E8E8B4B-8ADE-47E9-8606-85C704D855C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFractionToMixedNumberConverter", "SimpleFractionToMixedNumberConverter\SimpleFractionToMixedNumberConverter.csproj", "{712F8BE0-00B6-466B-9017-C6E254DC176E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePolishNotationSolver", "ReversePolishNotationSolver\ReversePolishNotationSolver.csproj", "{03276949-4D10-4950-90F6-A27BC94B2407}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{1E8E8B4B-8ADE-47E9-8606-85C704D855C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E8E8B4B-8ADE-47E9-8606-85C704D855C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E8E8B4B-8ADE-47E9-8606-85C704D855C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{712F8BE0-00B6-466B-9017-C6E254DC176E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712F8BE0-00B6-466B-9017-C6E254DC176E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712F8BE0-00B6-466B-9017-C6E254DC176E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712F8BE0-00B6-466B-9017-C6E254DC176E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03276949-4D10-4950-90F6-A27BC94B2407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03276949-4D10-4950-90F6-A27BC94B2407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03276949-4D10-4950-90F6-A27BC94B2407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03276949-4D10-4950-90F6-A27BC94B2407}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
