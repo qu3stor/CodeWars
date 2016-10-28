@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace SandBox
@@ -10,20 +11,15 @@ namespace SandBox
     {
         static void Main(string[] args)
         {
-            int min = 0;
-            int max = 100;
-            int step = 1;
-            //int arrLen = max % step == 0 ? max / step : max / step + 1;
-            int arrLen = (max - min) / step + 1;
-            int[] result = new int[arrLen];
-            result[0] = min;
+            string a = "tew234his is 46846number:23 72-34";
+            var b = new String(a.ToCharArray().Where(ch => Char.IsDigit(ch)).ToArray());
+            long f = Int64.Parse(b);
+            string c = Regex.Match(a, @"\d+").Value;
+          
+            Console.WriteLine(b);
+            Console.WriteLine(c);
+            Console.WriteLine(f);
 
-            for (int i = 1; i < arrLen; i++)
-            {
-                result[i] = result[i-1] +  step;
-            }
-
-            
 
             Console.ReadKey();
         }
